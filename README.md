@@ -1,5 +1,5 @@
 # guidepoint-ctf-2022
-first ctf 28th-30th
+first ctf oct 27th-30th
 
 ## The 6 flags I found
 ### Brute: hydra dictionary attack
